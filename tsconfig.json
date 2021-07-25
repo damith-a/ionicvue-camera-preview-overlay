@@ -33,7 +33,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/utils/formatDate.js"  ],
   "exclude": [
     "node_modules"
   ]
